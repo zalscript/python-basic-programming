@@ -1,9 +1,9 @@
 # Variabel adalah tempat untuk menyimpan nilai/data
 
 # contoh:
-nama = "John Doe" # 'nama' merupakan variabel yang menyimpan string "John Doe"   # 'nama' --> variabel
+nama = "John Doe" # 'nama' merupakan variabel yang menyimpan string "John Doe"   # 'nama/umur' --> variabel
 umur = 15 # 'umur' merupakan variabel yang menyimpan nilai 15                    # '=' --> operator penugasan/assignment            
-                                                                                 # 'John Doe' --> nilai/data
+                                                                                 # 'John Doe/15' --> nilai/data
 
 # pemanggilan variabel
 print(nama) # memanggil variabel 'nama' untuk menampilkan nilainya
